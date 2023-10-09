@@ -38,23 +38,14 @@
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+         <br>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        </p>
+    </td>
+    <td>
+     <p align="center">
+        <img height="360em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png"/>
+     </p>
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
