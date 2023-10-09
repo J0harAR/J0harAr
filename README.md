@@ -1,6 +1,6 @@
-<h1 align="center">Hola ,soy Johan Alfaro Ruiz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi ,I'm Johan Alfaro Ruiz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Programador+backend" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer" alt="Typing SVG" /></a>
 </p>
 
 <!--- snake -->
@@ -34,9 +34,9 @@
 - 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
 <!--Intro end-->
 
-
-![Sreevishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=J0harAR&hide=issues&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0harAR&layout=compact&theme=gotham)](https://github.com/J0harAR/github-readme-stats)
+### ⚙️ &nbsp;GitHub Analytics
+![Sreevishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=J0harAR&hide=issues&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0harAR&layout=compact&theme=tokyonight)](https://github.com/J0harAR/github-readme-stats)
 
 
 
@@ -51,7 +51,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,firebase,github,html,java,python,php,js,kotlin,materialui,mysql,nodejs,postman,py,react,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,firebase,github,html,java,python,django,php,js,kotlin,materialui,mysql,nodejs,postman,py,react,tailwind,vscode&perline=14" />
   </a>
 </p>
 
@@ -85,7 +85,3 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
-
-Last Edited on: 29/4/2023
