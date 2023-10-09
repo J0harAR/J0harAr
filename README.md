@@ -51,7 +51,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,firebase,github,html,java,python,django,php,js,kotlin,materialui,mysql,nodejs,postman,py,react,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,firebase,github,html,java,python,django,php,laravel,js,kotlin,mysql,nodejs,postman,py,react,tailwind,vscode&perline=14" />
   </a>
 </p>
 
@@ -63,6 +63,12 @@
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/w0a65mcr628rmh7zg309zkag2)
+
+---
 
 <!--icons and links-->
 <p align="center">
