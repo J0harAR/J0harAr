@@ -35,26 +35,12 @@
 <!--Intro end-->
 
 
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-         <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        </p>
-    </td>
-    <td>
-     <p align="center">
-        <img height="360em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png"/>
-     </p>
-<!--- stats (end) -->
-![Sreevishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreevishnu-ux&hide=issues&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreevishnu-ux&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@sreevishnu_ux/79cd408d-2c54-421e-aef3-ef0007369468.png" width = 400px /></a>
+![Sreevishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=J0harAR&hide=issues&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0harAR&layout=compact&theme=gotham)](https://github.com/J0harAR/github-readme-stats)
 
 
-</p>        
-<!--- stats (end) -->
+
+
 
 
 <!--h1 without bottom border-->
