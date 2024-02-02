@@ -19,7 +19,7 @@
 
 
 <!--Intro start-->
-- 💻 Currently, I am studying computer systems engineering in the 9th semester.
+- 💻 Currently, I am studying computer systems engineering in the 9th semester.pito pal uza
 
 - 📱 I am learning microservices to create scalable applications.
 
